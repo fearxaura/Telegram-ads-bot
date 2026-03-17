@@ -1,0 +1,30 @@
+# config.json should never be committed if it contains real credentials.
+# Uncomment the line below after you have filled in your real token.
+# config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env
+
+# Session files (Telethon)
+*.session
+*.session-journal
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp

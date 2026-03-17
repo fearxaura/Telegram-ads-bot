@@ -1,0 +1,9 @@
+{
+  "bot_token": "YOUR_BOT_TOKEN_HERE",
+  "owner_id": 0,
+  "selected_groups": [],
+  "promo_message": "👋 Hello! Check out our latest offers!",
+  "away_message": "👋 Hi! The owner is currently offline. Please try again later or leave your message and they will get back to you soon.",
+  "owner_online": true,
+  "send_interval_minutes": 60
+}
