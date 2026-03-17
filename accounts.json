@@ -1,0 +1,12 @@
+[
+	{
+		"api_id": "api_id",
+		"api_hash": "api_hash",
+		"phone_number": "phone_number",
+		"time_interval": 30,
+		"promo_message": "👋 Some text?",
+		"forward_message": "https://t.me/s/channel/message_id",
+		"reply_message": "👋 Hello!\n\n💻 You need coding services? Contact 👉 @fearxaura\nPlease do not reply to this message. Thanks",       
+		"session_name": "session_name"
+	}
+]
